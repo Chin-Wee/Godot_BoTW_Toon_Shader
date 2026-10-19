@@ -36,7 +36,9 @@ A TRUE BoTW style shadeer for Godot. BoTW's warbly shadows, multiple lights. Its
 
 # Demo Project
 
-[Demo Project Branch](https://github.com/nekotogd/Godot_BoTW_Toon_Shader/tree/demo_scene)
+The demo project is included in the [`BOTW_Shader_Test`](BOTW_Shader_Test/) directory.
+
+![Demo scene](https://user-images.githubusercontent.com/81257780/132559720-3b61db3a-b88d-422c-aaa4-9a5bb9fab3f2.png)
 
 <h1>How to Use (Video)</h1>
 
